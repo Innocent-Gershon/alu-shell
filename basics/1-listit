@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -als
+echo -e -n "$(ls)\n" 
